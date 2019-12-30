@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="huan-swagger-core" />
+        <module name="huan-swagger-ui" />
+        <module name="spring-boot-demo" />
+        <module name="spring-mvc-demo" />
+        <module name="swagger-ui-layer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="huan-swagger" target="1.8" />
+      <module name="huan-swagger-core" target="1.8" />
+      <module name="huan-swagger-ui" target="1.8" />
+      <module name="spring-boot-demo" target="1.8" />
+      <module name="spring-mvc-demo" target="1.8" />
+      <module name="swagger-ui-layer" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="huan-swagger-core" options="-parameters" />
+      <module name="huan-swagger-ui" options="-parameters" />
+      <module name="spring-boot-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

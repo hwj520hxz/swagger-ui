@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/huan-swagger.iml" filepath="$PROJECT_DIR$/huan-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huan-swagger-core/huan-swagger-core.iml" filepath="$PROJECT_DIR$/huan-swagger-core/huan-swagger-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huan-swagger-ui/huan-swagger-ui.iml" filepath="$PROJECT_DIR$/huan-swagger-ui/huan-swagger-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo/spring-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-demo/spring-mvc-demo.iml" filepath="$PROJECT_DIR$/spring-mvc-demo/spring-mvc-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger-ui-layer/swagger-ui-layer.iml" filepath="$PROJECT_DIR$/swagger-ui-layer/swagger-ui-layer.iml" />
+    </modules>
+  </component>
+</project>
